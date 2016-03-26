@@ -1,0 +1,29 @@
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\Anone.exe.config
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\Anone.exe
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\Anone.pdb
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\DynamicJson.dll
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\NAudio.dll
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\bin\Debug\NAudio.xml
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.csprojResolveAssemblyReference.cache
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.TargetDialog.resources
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.Properties.Resources.resources
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.VoiceMessageDialog.resources
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.csproj.GenerateResource.Cache
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.exe
+C:\Users\Tokusei\Desktop\Anone\Anone\Anone\obj\Debug\Anone.pdb
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\Anone.exe.config
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\Anone.exe
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\Anone.pdb
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\DynamicJson.dll
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\NAudio.dll
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Debug\NAudio.xml
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.ReceiverDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.TargetDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.Properties.Resources.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.VoiceMessageDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.csproj.GenerateResource.Cache
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.exe
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Debug\Anone.pdb
+C:\Users\OratorSB\Source\Repos\Anone-WinForm\Anone\Anone\bin\Debug\Anone.exe.config
+C:\Users\OratorSB\Source\Repos\Anone-WinForm\Anone\Anone\obj\Debug\Anone.exe
+C:\Users\OratorSB\Source\Repos\Anone-WinForm\Anone\Anone\obj\Debug\Anone.pdb

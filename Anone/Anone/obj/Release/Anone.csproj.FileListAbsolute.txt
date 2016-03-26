@@ -1,0 +1,14 @@
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\Anone.exe.config
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\Anone.exe
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\Anone.pdb
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\DynamicJson.dll
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\NAudio.dll
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\bin\Release\NAudio.xml
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.ReceiverDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.TargetDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.Properties.Resources.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.VoiceMessageDialog.resources
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.csproj.GenerateResource.Cache
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.exe
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.pdb
+C:\Users\OratorSB\Documents\Visual Studio 2015\Projects\Anone\Anone\obj\Release\Anone.csprojResolveAssemblyReference.cache
